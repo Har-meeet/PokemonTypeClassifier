@@ -1,0 +1,21 @@
+,Sprites,Sprites,+ HOME,+ HOME,+ Artwork,+ Artwork
+,species,images,species,images,species,images
+type,,,,,,
+normal,75,257,75,332,75,407
+water,74,251,74,325,74,399
+grass,47,116,47,163,47,210
+fire,36,123,36,159,36,195
+psychic,39,114,39,153,39,192
+electric,35,113,35,148,35,183
+fighting,28,80,28,108,28,136
+bug,23,71,23,94,23,117
+poison,16,77,16,93,16,109
+ground,17,66,17,83,17,100
+fairy,21,48,21,69,21,90
+rock,17,37,17,54,17,71
+ghost,16,38,16,54,16,70
+ice,16,30,16,46,16,62
+dark,13,30,13,43,13,56
+dragon,13,28,13,41,13,54
+steel,10,14,10,24,10,34
+flying,3,3,3,6,3,9
